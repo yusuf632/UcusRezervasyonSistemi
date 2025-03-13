@@ -1,1 +1,1 @@
-Bu proje Murat Yücedağ tarafından öğrendim ve geliştirmeler yaptım.
+Bu projeyi Murat Yücedağ tarafından öğrendim ve geliştirmeler yaptım.
