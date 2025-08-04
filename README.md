@@ -14,8 +14,6 @@ Programlama Dili: C#
    
 ✈️ Uçuş arama (Kalkış/Varış noktası, tarih filtreleme)
 
-2. Yönetici (Havayolu Personeli) İşlemleri
-
 ➕ Uçuş ekleme/düzenleme/silme.
 
 👥 Müşteri ve rezervasyon yönetimi.
