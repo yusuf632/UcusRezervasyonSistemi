@@ -10,12 +10,12 @@ Programlama Dili: C#
 
 🎯 Sistem Özellikleri
 
-1. Kullanıcı (Müşteri) İşlemleri
+1. Kullanıcı (Müşteri) İşlemleri.
    
 ✈️ Uçuş arama (Kalkış/Varış noktası, tarih filtreleme)
 
-3. Yönetici (Havayolu Personeli) İşlemleri
+2. Yönetici (Havayolu Personeli) İşlemleri
 
-➕ Uçuş ekleme/düzenleme/silme
+➕ Uçuş ekleme/düzenleme/silme.
 
-👥 Müşteri ve rezervasyon yönetimi
+👥 Müşteri ve rezervasyon yönetimi.
