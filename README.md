@@ -1,6 +1,4 @@
-Proje Tanımı (Murat Yücedağ tarafından öğrendim)
-
-Bu proje, C# Windows Forms ile geliştirilmiş bir Uçuş Rezervasyon Sistemi'dir. Kullanıcıların uçuş araması ve rezervasyon yönetmesi için tasarlanmıştır.
+📌Proje Tanımı: Bu proje, C# Windows Forms ile geliştirilmiş bir Uçuş Rezervasyon Sistemi'dir. Kullanıcıların uçuş araması ve rezervasyon yönetmesi için tasarlanmıştır.
 
 🛠 Kullanılan Teknolojiler
 
